@@ -1,0 +1,4 @@
+com\sliit\product_service\ProductController.class
+com\sliit\product_service\Product.class
+com\sliit\product_service\ProductRepository.class
+com\sliit\product_service\ProductServiceApplication.class
